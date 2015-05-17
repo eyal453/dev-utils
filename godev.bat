@@ -1,2 +1,2 @@
 @echo off
-cd %homepath%\source\repos\ConsumerPhysics\rainbow
+cd\users\eyale\source\repos\consumerphysics\rainbow
